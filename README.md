@@ -161,9 +161,17 @@ http://localhost:5000
 Add your Postman screenshots here.
 
 * Register API
+  <img width="1918" height="1016" alt="Screenshot 2026-04-19 101605" src="https://github.com/user-attachments/assets/80b2b8cb-1082-40a4-99f0-4a7a6f4f9729" />
+
 * Login API
+  <img width="1919" height="1020" alt="Screenshot 2026-04-19 101744" src="https://github.com/user-attachments/assets/ea3a835a-f17b-4090-9d62-0cb131774c9f" />
+
 * Create Post API
+  <img width="1916" height="1019" alt="Screenshot 2026-04-19 101849" src="https://github.com/user-attachments/assets/0129541d-7a88-41c7-925b-217d443d593e" />
+
 * Get Posts API
+  <img width="1919" height="1020" alt="Screenshot 2026-04-19 101955" src="https://github.com/user-attachments/assets/133c5c41-d800-4c28-9312-b45e242d411f" />
+
 
 
 # 🎯 Learning Outcomes
