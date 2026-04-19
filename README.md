@@ -36,7 +36,7 @@ socialhub-api/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/socialhub-api.git
+git clone https://github.com/prakul003/socialhub-api.git
 ```
 
 ### 2. Open Project Folder
