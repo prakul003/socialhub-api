@@ -172,20 +172,6 @@ Add your Postman screenshots here.
 * Get Posts API
   <img width="1919" height="1020" alt="Screenshot 2026-04-19 101955" src="https://github.com/user-attachments/assets/133c5c41-d800-4c28-9312-b45e242d411f" />
 
-
-
-# 🎯 Learning Outcomes
-
-Through this project, I learned:
-
-* REST API Design
-* Express Routing
-* Handling HTTP Requests
-* JSON Data Processing
-* Backend Project Structure
-* API Testing with Postman
-
-
 # 👨‍💻 Author
 
 Developed by **Prakul Dobriyal**
